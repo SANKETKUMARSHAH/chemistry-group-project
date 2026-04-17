@@ -94,8 +94,4 @@ Important Notes
 
 
 👨‍💻 project made by;
-Saurav kumar [25bsa10125]
-Arya Soni [25bce11033]
-Ayush Chandran Dewan [25bet10020]
-Vinayak Vishwkarma [25bce10258]
-S Pratik [25bce11069]
+Sanket Kumar Shah(25BCE10804)
