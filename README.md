@@ -41,7 +41,7 @@ Installation
 
 1️⃣ Clone Repository
 
-git clone 
+git clone https://github.com/SANKETKUMARSHAH/chemistry-group-project/tree/main
 cd molecular-viewer
 
 ---
