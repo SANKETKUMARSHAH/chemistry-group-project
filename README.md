@@ -41,7 +41,7 @@ Installation
 
 1️⃣ Clone Repository
 
-git clone https://github.com/saurav25bsa10125/molecular-viewer.git
+git clone 
 cd molecular-viewer
 
 ---
