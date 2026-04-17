@@ -1,0 +1,5 @@
+NEED to install 
+1. streamlit
+2. rdkit
+3. py3dmol
+4. openbabel-wheel
